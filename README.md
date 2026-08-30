@@ -2,6 +2,9 @@
 
 
 # 👋 Hi, I'm AL AMIN
+<h3 align="center">
+  Full-Stack Web Developer | React.js | Next.js | Node.js | MongoDB
+</h3>
  
 <p align="center">
   <img 
@@ -10,22 +13,6 @@
     alt="AL AMIN - Full-Stack Web Developer"
   />
 </p>
-
-<h1 align="center">AL AMIN</h1>
-
-<h3 align="center">
-  Full-Stack Web Developer | React.js | Next.js | Node.js | MongoDB
-</h3>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=750&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving"
-    alt="Typing SVG"
-  />
-</p>
-<h3 align="center">
-  Full-Stack Web Developer | React.js | Next.js | Node.js | MongoDB
-</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React.js+%7C+Next.js+Developer;MERN+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+%26+Improving" alt="Typing SVG" />
